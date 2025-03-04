@@ -1,3 +1,15 @@
+# 🚀 HRM-System  
+
+**HRM-System** is an **HR management platform** designed to help companies efficiently manage **accounts, collaborators, and HR workflows**.  
+
+## ✨ Features  
+✅ **Company Dashboard** for tracking HR activities  
+✅ **Company & Account Management**  
+✅ **Collaborators Table** to manage employees and roles  
+✅ **User-friendly Interface** for seamless HR operations  
+
+💡 *This is an evolving project, with continuous enhancements to improve functionality and scalability.*  
+
 ## 🚀 How to Run the App
 
 ### 1. Clone the Repository
